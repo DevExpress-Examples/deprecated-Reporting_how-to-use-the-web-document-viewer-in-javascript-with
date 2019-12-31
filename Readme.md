@@ -27,6 +27,6 @@ The package manager builds the client-side JavaScript application and launches t
 The [Document Viewer Integration in React](https://docs.devexpress.com/XtraReports/119338) document contains a step-by-step guide that describes how to create this project.
 
 <b>See also:</b>
-* [How to Use the Document Viewer in JavaScript with React Library and Npm Package Manager](https://github.com/DevExpress-Examples/reporting-document-viewer-in-javascript-with-react).
+* [How to Use the Document Viewer in JavaScript with React Library and Npm Package Manager](https://github.com/DevExpress-Examples/reporting-document-viewer-in-javascript-with-react)
 * [How to Use the Report Designer in JavaScript with React Library and Npm Package Manager](https://github.com/DevExpress-Examples/reporting-eud-designer-in-javascript-with-react)
 
