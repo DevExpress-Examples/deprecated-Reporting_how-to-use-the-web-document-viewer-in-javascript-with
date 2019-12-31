@@ -28,5 +28,5 @@ The [Document Viewer Integration in React](https://docs.devexpress.com/XtraRepor
 
 <b>See also:</b>
 * [How to Use the Document Viewer in JavaScript with React Library and Npm Package Manager](https://github.com/DevExpress-Examples/reporting-document-viewer-in-javascript-with-react).
-* [How to Use the End-User Web Report Designer in JavaScript with React Library and Npm Package Manager](https://github.com/DevExpress-Examples/reporting-eud-designer-in-javascript-with-react)
+* [How to Use the Report Designer in JavaScript with React Library and Npm Package Manager](https://github.com/DevExpress-Examples/reporting-eud-designer-in-javascript-with-react)
 
